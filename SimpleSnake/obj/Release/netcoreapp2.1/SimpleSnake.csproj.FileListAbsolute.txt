@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\bin\Release\netcoreapp2.1\SimpleSnake.deps.json
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\bin\Release\netcoreapp2.1\SimpleSnake.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\bin\Release\netcoreapp2.1\SimpleSnake.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\bin\Release\netcoreapp2.1\SimpleSnake.dll
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\bin\Release\netcoreapp2.1\SimpleSnake.pdb
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\obj\Release\netcoreapp2.1\SimpleSnake.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\obj\Release\netcoreapp2.1\SimpleSnake.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\obj\Release\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\obj\Release\netcoreapp2.1\SimpleSnake.dll
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\obj\Release\netcoreapp2.1\SimpleSnake.pdb

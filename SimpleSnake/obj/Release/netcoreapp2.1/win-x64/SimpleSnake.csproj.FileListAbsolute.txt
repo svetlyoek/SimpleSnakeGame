@@ -1,0 +1,14 @@
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\bin\Release\netcoreapp2.1\win-x64\SimpleSnake.exe
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\bin\Release\netcoreapp2.1\win-x64\SimpleSnake.deps.json
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\bin\Release\netcoreapp2.1\win-x64\SimpleSnake.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\bin\Release\netcoreapp2.1\win-x64\SimpleSnake.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\bin\Release\netcoreapp2.1\win-x64\SimpleSnake.dll
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\bin\Release\netcoreapp2.1\win-x64\SimpleSnake.pdb
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\obj\Release\netcoreapp2.1\win-x64\SimpleSnake.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\obj\Release\netcoreapp2.1\win-x64\SimpleSnake.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\obj\Release\netcoreapp2.1\win-x64\SimpleSnake.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\obj\Release\netcoreapp2.1\win-x64\SimpleSnake.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\obj\Release\netcoreapp2.1\win-x64\SimpleSnake.dll
+E:\Soft Uni\CODES\OOP\Workshop\SimpleSnake\SimpleSnake\obj\Release\netcoreapp2.1\win-x64\SimpleSnake.pdb
